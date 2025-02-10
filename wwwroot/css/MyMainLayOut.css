@@ -1,0 +1,289 @@
+﻿/* [1. IMPORT SOURCE] */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+/* CSS Variables for Theming */
+:root {
+    --primary-color: #333;
+    --secondary-color: #888;
+    --background-color: #fff;
+    --accent-color: #005faa;
+    --hover-color: #326987;
+    --border-color: #eee;
+    --font-family: 'Roboto Condensed', sans-serif;
+    --font-size-base: 1rem;
+    --line-height-base: 1.5;
+    --spacing-unit: 1rem;
+}
+
+/* [2. BASE STYLES] */
+body {
+    margin: 0;
+    padding: var(--spacing-unit);
+    font-family: var(--font-family);
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+    color: var(--primary-color);
+    background: var(--background-color);
+    overflow-x: hidden;
+}
+
+    /* Custom Scrollbar (for modern browsers) */
+    body::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    body::-webkit-scrollbar-track {
+        background: #f1f1f1;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background: var(--secondary-color);
+        border-radius: 5px;
+    }
+
+
+
+/* [3. TYPOGRAPHY] */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    margin: 0 0 var(--spacing-unit);
+}
+
+p {
+    margin: 0 0 var(--spacing-unit);
+}
+
+/* [4. LOGO] */
+.logo {
+    margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+    .logo h1 {
+        font-size: 2rem;
+        text-transform: uppercase;
+        letter-spacing: -1px;
+    }
+
+        .logo h1 span {
+            font-weight: 300;
+        }
+
+        .logo h1 a {
+            color: var(--primary-color);
+            text-decoration: none;
+            transition: color 0.3s ease-in-out;
+        }
+
+            .logo h1 a:hover {
+                color: var(--secondary-color);
+                text-decoration: underline;
+            }
+
+/* [5. ACCOUNT SECTION] */
+.account {
+    text-align: right;
+}
+
+    .account a {
+        color: var(--primary-color);
+        text-decoration: none;
+        transition: color 0.3s ease-in-out;
+    }
+
+        .account a:hover {
+            color: var(--secondary-color);
+            text-decoration: underline;
+        }
+
+    .account h4 {
+        font-weight: 600;
+        text-transform: uppercase;
+        margin-bottom: var(--spacing-unit);
+    }
+
+    .account ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: flex-end;
+        gap: var(--spacing-unit);
+    }
+
+/* [6. NAV MENU] */
+.nav-menus {
+    border-top: 2px solid var(--primary-color);
+    padding: var(--spacing-unit) 0;
+}
+
+    .nav-menus .nav-pills > li > a {
+        background: transparent;
+        color: var(--primary-color);
+        transition: background 0.3s, color 0.3s;
+    }
+
+        .nav-menus .nav-pills > li > a:hover,
+        .nav-menus .nav-pills > .active > a {
+            background: var(--primary-color);
+            color: var(--background-color);
+        }
+
+/* [7. CAROUSEL] */
+.carousel-container {
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.carousel-control-prev {
+    left: 15px;
+}
+
+.carousel-control-next {
+    right: 15px;
+}
+
+    .carousel-control-prev:hover,
+    .carousel-control-next:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 30px;
+    height: 30px;
+    background-size: 100%, 100%;
+}
+
+/* [8. FOOTER COPYRIGHT] */
+.copyright {
+    font-size: 0.875rem;
+    text-align: center;
+    padding: var(--spacing-unit);
+    background: #f8f9fa;
+}
+
+    .copyright .list-social {
+        display: flex;
+        justify-content: center;
+        gap: var(--spacing-unit);
+        padding: var(--spacing-unit) 0;
+    }
+
+        .copyright .list-social a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background: var(--background-color);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            font-size: 1.25rem;
+            color: var(--primary-color);
+            transition: all 0.3s ease-in-out;
+        }
+
+            .copyright .list-social a:hover {
+                background: var(--primary-color);
+                border-color: var(--primary-color);
+                color: var(--background-color);
+            }
+
+/* [9. PRODUCT ITEM] */
+.product-item {
+    position: relative;
+    margin-bottom: var(--spacing-unit);
+    text-align: center; /* Center align the content */
+}
+
+    .product-item img {
+        width: 100%; /* Make the image responsive */
+        height: 200px; /* Set a fixed height */
+        object-fit: cover; /* Ensure the image covers the area without distortion */
+        border-radius: 8px; /* Optional: Add rounded corners */
+    }
+
+    .product-item .caption h5 {
+        font-weight: 600;
+        font-size: 1.25rem;
+        border-top: 2px solid var(--primary-color);
+        margin-top: var(--spacing-unit);
+        padding-top: var(--spacing-unit);
+    }
+
+    .product-item .product-item-price {
+        font-size: 1rem;
+        font-weight: 400;
+    }
+
+    .product-item .product-item-badge {
+        position: absolute;
+        top: 10px; /* Adjust position */
+        left: 10px; /* Adjust position */
+        padding: 0.5rem 1rem;
+        color: var(--background-color);
+        font-size: 0.875rem;
+        font-weight: 600;
+        background: var(--primary-color);
+        border-radius: 4px 0 4px 0;
+    }
+
+/* [10. SEARCH BAR] */
+.olSearch {
+    position: relative;
+    margin-bottom: var(--spacing-unit);
+}
+
+.inputComn {
+    color: var(--primary-color);
+    font-size: 1rem;
+    height: 44px;
+    width: 100%;
+    padding: 0 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    transition: border-color 0.3s ease-in-out;
+}
+
+    .inputComn:focus {
+        border-color: var(--accent-color);
+        outline: none;
+    }
+
+.searchBtn {
+    background-color: var(--accent-color);
+    border: 0;
+    color: var(--background-color);
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    height: 44px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .searchBtn:hover {
+        background-color: var(--hover-color);
+    }
