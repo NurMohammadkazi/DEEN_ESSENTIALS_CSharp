@@ -4,9 +4,17 @@ wwwroot\favicon.ico
 wwwroot\images\attar.jpg
 wwwroot\images\attar2.jpg
 wwwroot\images\attar3.jpg
+wwwroot\images\book_item1.jpg
+wwwroot\images\bundle.jpg
+wwwroot\images\digital_pen.jpg
+wwwroot\images\dp.jpg
 wwwroot\images\kiffaya.jpg
+wwwroot\images\prayer_item1.jpg
+wwwroot\images\products\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg
+wwwroot\images\products\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg
 wwwroot\images\search.png
 wwwroot\images\tasbih.jpg
+wwwroot\images\wooden_tashbih1.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
