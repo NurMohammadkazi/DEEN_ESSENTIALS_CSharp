@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj": {}
+    "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj": {}
   },
   "projects": {
-    "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj": {
+    "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj",
+        "projectUniqueName": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
         "projectName": "Deen_Essentials",
-        "projectPath": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\obj\\",
+        "projectPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,10 +50,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNet.Mvc": {
-              "target": "Package",
-              "version": "[5.3.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.1, )"
