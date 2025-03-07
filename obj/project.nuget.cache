@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h27juwKua7c=",
+  "dgSpecHash": "nh1VGbGpsMc=",
   "success": true,
-  "projectFilePath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+  "projectFilePath": "D:\\GitProjects\\3.2\\Deen_Essentials.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

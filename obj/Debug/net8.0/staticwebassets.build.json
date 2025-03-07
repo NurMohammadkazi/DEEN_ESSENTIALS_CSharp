@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "smiZfplMsff21hHLNfCqgxIzi1GUhz1FWNgouFW5MpA=",
+  "Hash": "1yZtopC+9i7RB0koFC2tu72u4YkZUkkJw7T3rsJmB9U=",
   "Source": "Deen_Essentials",
   "BasePath": "_content/Deen_Essentials",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Deen_Essentials\\wwwroot",
       "Source": "Deen_Essentials",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css",
+      "Identity": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "Deen_Essentials#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "zZwa2Mt/PY3yu342pPU43rTXgiK61hxJoh1RL4kMovw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css"
+      "OriginalItemSpec": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
+      "Identity": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "Deen_Essentials#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "zZwa2Mt/PY3yu342pPU43rTXgiK61hxJoh1RL4kMovw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css"
+      "OriginalItemSpec": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\MyMainLayOut.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\css\\MyMainLayOut.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "css/MyMainLayOut#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\MyMainLayOut.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\site.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\css\\site.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\favicon.ico",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\favicon.ico",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/attar#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\images\\attar.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar2.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar2.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/attar2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\attar2.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar3.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar3.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/attar3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\attar3.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\book_item1.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\book_item1.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/book_item1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\book_item1.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\bundle.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\bundle.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/bundle#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bundle.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\digital_pen.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\digital_pen.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/digital_pen#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\digital_pen.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\dp.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\dp.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/dp#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dp.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\kiffaya.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\kiffaya.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/kiffaya#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kiffaya.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\prayer_item1.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\prayer_item1.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/prayer_item1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prayer_item1.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/products/031d22dc-69ba-472e-ba8b-f5779563ce66_download#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/products/1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/products/5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/products/6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/products/76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,31 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\search.png",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
+      "BasePath": "_content/Deen_Essentials",
+      "RelativePath": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm2fcspe5a",
+      "Integrity": "+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg"
+    },
+    {
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\search.png",
+      "SourceId": "Deen_Essentials",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/search#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search.png"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\tasbih.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\tasbih.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/tasbih#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tasbih.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\wooden_tashbih1.jpg",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\images\\wooden_tashbih1.jpg",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "images/wooden_tashbih1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\wooden_tashbih1.jpg"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\js\\site.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\js\\site.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -500,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -857,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -899,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1151,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1256,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1382,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1403,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1424,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1445,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1529,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1592,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1634,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1676,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Deen_Essentials",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "ContentRoot": "D:\\GitProjects\\3.2\\wwwroot\\",
       "BasePath": "_content/Deen_Essentials",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1700,7 +1721,7 @@
   "Endpoints": [
     {
       "Route": "css/MyMainLayOut.92xtu3bqz7.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\MyMainLayOut.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\css\\MyMainLayOut.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1721,7 +1742,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1745,7 +1766,7 @@
     },
     {
       "Route": "css/MyMainLayOut.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\MyMainLayOut.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\css\\MyMainLayOut.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1766,7 +1787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1782,7 +1803,7 @@
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1803,7 +1824,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1827,7 +1848,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1848,7 +1869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1864,7 +1885,7 @@
     },
     {
       "Route": "Deen_Essentials.bundle.scp.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1885,7 +1906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1901,7 +1922,7 @@
     },
     {
       "Route": "Deen_Essentials.js3kr2t4ct.bundle.scp.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1922,7 +1943,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1946,7 +1967,7 @@
     },
     {
       "Route": "Deen_Essentials.js3kr2t4ct.styles.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1967,7 +1988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1991,7 +2012,7 @@
     },
     {
       "Route": "Deen_Essentials.styles.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Deen_Essentials.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2012,7 +2033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2028,7 +2049,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2049,7 +2070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2073,7 +2094,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2094,7 +2115,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2110,7 +2131,7 @@
     },
     {
       "Route": "images/attar.gm2fcspe5a.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2131,7 +2152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2155,7 +2176,7 @@
     },
     {
       "Route": "images/attar.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2176,7 +2197,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2192,7 +2213,7 @@
     },
     {
       "Route": "images/attar2.ekqxf8tlx2.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar2.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2213,7 +2234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2237,7 +2258,7 @@
     },
     {
       "Route": "images/attar2.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar2.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2258,7 +2279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2274,7 +2295,7 @@
     },
     {
       "Route": "images/attar3.8mls3llv5w.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar3.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2295,7 +2316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2319,7 +2340,7 @@
     },
     {
       "Route": "images/attar3.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar3.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\attar3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2340,7 +2361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2356,7 +2377,7 @@
     },
     {
       "Route": "images/book_item1.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\book_item1.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\book_item1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2377,7 +2398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2393,7 +2414,7 @@
     },
     {
       "Route": "images/book_item1.o9l8u5yq9w.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\book_item1.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\book_item1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2414,7 +2435,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2438,7 +2459,7 @@
     },
     {
       "Route": "images/bundle.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\bundle.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\bundle.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2459,7 +2480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2475,7 +2496,7 @@
     },
     {
       "Route": "images/bundle.mpqk379oio.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\bundle.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\bundle.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2496,7 +2517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2520,7 +2541,7 @@
     },
     {
       "Route": "images/digital_pen.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\digital_pen.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\digital_pen.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2541,7 +2562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2557,7 +2578,7 @@
     },
     {
       "Route": "images/digital_pen.mk27oewlbv.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\digital_pen.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\digital_pen.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2578,7 +2599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2602,7 +2623,7 @@
     },
     {
       "Route": "images/dp.iffshliv94.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\dp.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\dp.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2644,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2647,7 +2668,7 @@
     },
     {
       "Route": "images/dp.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\dp.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\dp.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2668,7 +2689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2684,7 +2705,7 @@
     },
     {
       "Route": "images/kiffaya.4f9l3sz33g.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\kiffaya.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\kiffaya.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2705,7 +2726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2729,7 +2750,7 @@
     },
     {
       "Route": "images/kiffaya.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\kiffaya.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\kiffaya.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2750,7 +2771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2766,7 +2787,7 @@
     },
     {
       "Route": "images/prayer_item1.0q99yh7xpk.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\prayer_item1.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\prayer_item1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2787,7 +2808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2811,7 +2832,7 @@
     },
     {
       "Route": "images/prayer_item1.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\prayer_item1.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\prayer_item1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2832,7 +2853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2848,7 +2869,7 @@
     },
     {
       "Route": "images/products/031d22dc-69ba-472e-ba8b-f5779563ce66_download.htawnarlph.png",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2869,7 +2890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:16:10 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2893,7 +2914,7 @@
     },
     {
       "Route": "images/products/031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2914,7 +2935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:16:10 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,7 +2951,7 @@
     },
     {
       "Route": "images/products/1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.93yq2lsad7.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +2972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2975,7 +2996,7 @@
     },
     {
       "Route": "images/products/1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2996,7 +3017,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3012,7 +3033,7 @@
     },
     {
       "Route": "images/products/5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3033,7 +3054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3049,7 +3070,7 @@
     },
     {
       "Route": "images/products/5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.mjzwj3b5x7.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3070,7 +3091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3094,7 +3115,7 @@
     },
     {
       "Route": "images/products/6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jf6y6ic6a3.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3115,7 +3136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:28:39 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3139,7 +3160,7 @@
     },
     {
       "Route": "images/products/6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3160,7 +3181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:28:39 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3176,7 +3197,7 @@
     },
     {
       "Route": "images/products/76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3197,7 +3218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:19:07 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3213,7 +3234,7 @@
     },
     {
       "Route": "images/products/76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.rbmdyajh2u.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3234,7 +3255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:19:07 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3257,8 +3278,90 @@
       ]
     },
     {
+      "Route": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.gm2fcspe5a.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm2fcspe5a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU="
+        }
+      ]
+    },
+    {
       "Route": "images/search.png",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\search.png",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3279,7 +3382,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3295,7 +3398,7 @@
     },
     {
       "Route": "images/search.ufd5kdebkn.png",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\search.png",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\search.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3340,7 +3443,7 @@
     },
     {
       "Route": "images/tasbih.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\tasbih.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\tasbih.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3361,7 +3464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3377,7 +3480,7 @@
     },
     {
       "Route": "images/tasbih.nejn27boor.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\tasbih.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\tasbih.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3398,7 +3501,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3422,7 +3525,7 @@
     },
     {
       "Route": "images/wooden_tashbih1.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\wooden_tashbih1.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\wooden_tashbih1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3443,7 +3546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3459,7 +3562,7 @@
     },
     {
       "Route": "images/wooden_tashbih1.xjcxjf1uwv.jpg",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\wooden_tashbih1.jpg",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\images\\wooden_tashbih1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3480,7 +3583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3504,7 +3607,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3525,7 +3628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3541,7 +3644,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3562,7 +3665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3586,7 +3689,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3607,7 +3710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3623,7 +3726,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3668,7 +3771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3689,7 +3792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3705,7 +3808,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3726,7 +3829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3750,7 +3853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3771,7 +3874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3787,7 +3890,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3808,7 +3911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3832,7 +3935,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3853,7 +3956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3869,7 +3972,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ozu22stjof.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3890,7 +3993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3914,7 +4017,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3935,7 +4038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3951,7 +4054,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3972,7 +4075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3996,7 +4099,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4017,7 +4120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4033,7 +4136,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4054,7 +4157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4078,7 +4181,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4099,7 +4202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4123,7 +4226,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4144,7 +4247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4160,7 +4263,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4181,7 +4284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4205,7 +4308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4226,7 +4329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4242,7 +4345,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4263,7 +4366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4279,7 +4382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4300,7 +4403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4316,7 +4419,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4337,7 +4440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4361,7 +4464,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4382,7 +4485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4406,7 +4509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4427,7 +4530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4443,7 +4546,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4464,7 +4567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4488,7 +4591,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4509,7 +4612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4525,7 +4628,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4546,7 +4649,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4570,7 +4673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4591,7 +4694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4607,7 +4710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4628,7 +4731,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4652,7 +4755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4673,7 +4776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4689,7 +4792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +4813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4734,7 +4837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4755,7 +4858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4771,7 +4874,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4792,7 +4895,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4808,7 +4911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4829,7 +4932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4853,7 +4956,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4874,7 +4977,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4898,7 +5001,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4919,7 +5022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4935,7 +5038,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4956,7 +5059,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4980,7 +5083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5001,7 +5104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5017,7 +5120,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5038,7 +5141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5054,7 +5157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5075,7 +5178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5091,7 +5194,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5112,7 +5215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5136,7 +5239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5157,7 +5260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5181,7 +5284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5202,7 +5305,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5226,7 +5329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +5350,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5271,7 +5374,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5292,7 +5395,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5308,7 +5411,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5329,7 +5432,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5353,7 +5456,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5374,7 +5477,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5390,7 +5493,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5411,7 +5514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5427,7 +5530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5448,7 +5551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5464,7 +5567,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5485,7 +5588,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5509,7 +5612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5530,7 +5633,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5554,7 +5657,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5575,7 +5678,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5591,7 +5694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5715,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5636,7 +5739,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5657,7 +5760,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5673,7 +5776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5797,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5718,7 +5821,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5739,7 +5842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5755,7 +5858,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5792,7 +5895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5813,7 +5916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5837,7 +5940,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5858,7 +5961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5874,7 +5977,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5895,7 +5998,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5919,7 +6022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5940,7 +6043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5956,7 +6059,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5977,7 +6080,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5993,7 +6096,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6014,7 +6117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6038,7 +6141,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6059,7 +6162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6075,7 +6178,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6096,7 +6199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6120,7 +6223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6141,7 +6244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6165,7 +6268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6186,7 +6289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6210,7 +6313,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6231,7 +6334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6255,7 +6358,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6276,7 +6379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6300,7 +6403,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6321,7 +6424,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6337,7 +6440,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6358,7 +6461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6382,7 +6485,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6403,7 +6506,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6419,7 +6522,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6440,7 +6543,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6464,7 +6567,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6485,7 +6588,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6501,7 +6604,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6522,7 +6625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6546,7 +6649,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6567,7 +6670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6583,7 +6686,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6604,7 +6707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6620,7 +6723,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6641,7 +6744,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6665,7 +6768,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6686,7 +6789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6702,7 +6805,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6723,7 +6826,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6747,7 +6850,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6768,7 +6871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6784,7 +6887,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6805,7 +6908,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6821,7 +6924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6842,7 +6945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6866,7 +6969,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6887,7 +6990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6911,7 +7014,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6932,7 +7035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6948,7 +7051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6969,7 +7072,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6993,7 +7096,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7014,7 +7117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7030,7 +7133,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7051,7 +7154,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7075,7 +7178,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7096,7 +7199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7112,7 +7215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7133,7 +7236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7149,7 +7252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7170,7 +7273,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7194,7 +7297,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7215,7 +7318,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7231,7 +7334,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7252,7 +7355,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7276,7 +7379,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7297,7 +7400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7321,7 +7424,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7342,7 +7445,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7358,7 +7461,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7379,7 +7482,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7403,7 +7506,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7424,7 +7527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7448,7 +7551,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7469,7 +7572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7485,7 +7588,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7506,7 +7609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7522,7 +7625,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7543,7 +7646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7567,7 +7670,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7588,7 +7691,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7604,7 +7707,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7625,7 +7728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7649,7 +7752,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7670,7 +7773,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7686,7 +7789,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7707,7 +7810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7731,7 +7834,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7752,7 +7855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7768,7 +7871,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7789,7 +7892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7813,7 +7916,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7834,7 +7937,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7850,7 +7953,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7871,7 +7974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7887,7 +7990,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7908,7 +8011,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7932,7 +8035,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7953,7 +8056,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7969,7 +8072,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7990,7 +8093,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8014,7 +8117,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8035,7 +8138,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8059,7 +8162,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8080,7 +8183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8096,7 +8199,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8117,7 +8220,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8141,7 +8244,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8162,7 +8265,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8178,7 +8281,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8199,7 +8302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8223,7 +8326,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\GitProjects\\3.2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8244,7 +8347,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 13:21:33 GMT"
+          "Value": "Fri, 07 Mar 2025 14:18:25 GMT"
         },
         {
           "Name": "Cache-Control",

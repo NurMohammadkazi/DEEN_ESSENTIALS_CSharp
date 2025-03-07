@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj": {}
+    "D:\\GitProjects\\3.2\\Deen_Essentials.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj": {
+    "D:\\GitProjects\\3.2\\Deen_Essentials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+        "projectUniqueName": "D:\\GitProjects\\3.2\\Deen_Essentials.csproj",
         "projectName": "Deen_Essentials",
-        "projectPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+        "projectPath": "D:\\GitProjects\\3.2\\Deen_Essentials.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\obj\\",
+        "outputPath": "D:\\GitProjects\\3.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
