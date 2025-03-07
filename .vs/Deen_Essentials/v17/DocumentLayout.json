@@ -1,21 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DEEN_ESSENTIALS_CSharp\\",
+  "WorkspaceRootPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\deen_essentials.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:deen_essentials.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\data\\mydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:data\\mydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Migrations\\20250307095854_restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250307095854_restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|d:\\gitprojects\\deen_essential\\deen_essentials_c#\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,28 +66,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deen_Essentials",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+              "RelativeDocumentMoniker": "Deen_Essentials.csproj",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+              "RelativeToolTip": "Deen_Essentials.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T11:30:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
-              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAIAAAAAjAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAANsBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T05:24:09.454Z",
+              "WhenOpened": "2025-03-07T10:07:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductViewModel.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:07:05.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:05:57.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:59:43.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T09:55:11.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:55:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250307095854_restore.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Migrations\\20250307095854_restore.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307095854_restore.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Migrations\\20250307095854_restore.cs",
+              "RelativeToolTip": "Migrations\\20250307095854_restore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:58:54.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:57:33.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDatabaseContext.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Data\\MyDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDatabaseContext.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Data\\MyDatabaseContext.cs",
+              "RelativeToolTip": "Data\\MyDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:56:44.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAFkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -56,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Dashboard.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Admin\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
-              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Admin\\Dashboard.cshtml",
               "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -69,16 +226,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwBwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T05:06:47.603Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwIAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T05:24:09.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

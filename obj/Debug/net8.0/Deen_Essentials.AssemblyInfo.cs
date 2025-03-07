@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deen_Essentials")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01326da8fa13a002e65c1a06db17d01faa20c3b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8111d87c651076825880fb0683752451fcc38f89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deen_Essentials")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Deen_Essentials")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

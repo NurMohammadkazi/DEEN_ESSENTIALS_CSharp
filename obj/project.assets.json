@@ -4734,23 +4734,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "D:\\sdk_for_vs_studio\\NuGetPackages": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj",
+      "projectUniqueName": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
       "projectName": "Deen_Essentials",
-      "projectPath": "E:\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\",
+      "projectPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\Deen_Essentials.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "D:\\GitProjects\\Deen_Essential\\Deen_Essentials_C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\sdk_for_vs_studio\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4759,7 +4759,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
