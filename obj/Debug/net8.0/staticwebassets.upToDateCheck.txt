@@ -10,8 +10,11 @@ wwwroot\images\digital_pen.jpg
 wwwroot\images\dp.jpg
 wwwroot\images\kiffaya.jpg
 wwwroot\images\prayer_item1.jpg
+wwwroot\images\products\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png
 wwwroot\images\products\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg
 wwwroot\images\products\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg
+wwwroot\images\products\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg
+wwwroot\images\products\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg
 wwwroot\images\search.png
 wwwroot\images\tasbih.jpg
 wwwroot\images\wooden_tashbih1.jpg

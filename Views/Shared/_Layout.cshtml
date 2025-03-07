@@ -55,15 +55,33 @@
                     </ul>
 
                     <!-- Account Dropdown -->
+                    <!-- Account Dropdown -->
                     <div class="dropdown">
                         <button class="btn btn-primary dropdown-toggle" type="button" id="accountDropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                            Account
+                            @if (Context.Session.GetString("UserEmail") != null)
+                            {
+                                <span>👤 @Context.Session.GetString("UserName")</span>
+                            }
+                            else
+                            {
+                                <span>Account</span>
+                            }
                         </button>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="accountDropdown">
-                            <li><a class="dropdown-item" asp-controller="Account" asp-action="Login">User Login</a></li>
-                            <li><a class="dropdown-item" asp-controller="Admin" asp-action="Login">Admin Login</a></li>
+                            @if (Context.Session.GetString("UserEmail") != null)
+                            {
+                                <li><span class="dropdown-item disabled">Welcome, @Context.Session.GetString("UserName")</span></li>
+                                <li><a class="dropdown-item text-danger" asp-controller="User" asp-action="Logout">Logout</a></li>
+                            }
+                            else
+                            {
+                                <li><a class="dropdown-item" asp-controller="User" asp-action="Login">User Login</a></li>
+                                <li><a class="dropdown-item" asp-controller="User" asp-action="Signup">Sign Up</a></li>
+                                <li><a class="dropdown-item" asp-controller="Admin" asp-action="Login">Admin Login</a></li>
+                            }
                         </ul>
                     </div>
+
                 </div>
             </div>
         </nav>

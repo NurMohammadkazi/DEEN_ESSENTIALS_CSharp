@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Deen_Essentials.Models;
 using Deen_Essentials.Web.Data;
 using Deen_Essentials.ViewModels;
+using System.Diagnostics;
 
 namespace Deen_Essentials.Controllers
 {
@@ -58,63 +59,122 @@ namespace Deen_Essentials.Controllers
             {
                 return RedirectToAction("Login");
             }
-
-            return View();
+            var products = _context.Products.ToList(); // Fetch all products
+            return View(products); // Pass products to dashboard view
         }
 
-        // POST: Admin/AddProduct
+        //  Edit Product (GET)
+        public IActionResult EditProduct(int id)
+        {
+            var product = _context.Products.Find(id);
+            if (product == null) return NotFound();
+            return View(product);
+        }
+
+        //  Edit Product (POST)
+        [HttpPost]
+        public async Task<IActionResult> EditProduct(Product product, IFormFile newImage)
+        {
+            if (ModelState.IsValid)
+            {
+                var existingProduct = _context.Products.Find(product.Id);
+                if (existingProduct == null) return NotFound();
+
+                existingProduct.ProductName = product.ProductName;
+                existingProduct.ProductPrice = product.ProductPrice;
+                existingProduct.ProductCategory = product.ProductCategory;
+                existingProduct.ProductDescription = product.ProductDescription;
+                existingProduct.ProductStock = product.ProductStock;
+
+                // Handle Image Upload if changed
+                if (newImage != null)
+                {
+                    string uploadsFolder = Path.Combine(_hostEnvironment.WebRootPath, "images", "products");
+                    string uniqueFileName = Guid.NewGuid().ToString() + "_" + newImage.FileName;
+                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await newImage.CopyToAsync(fileStream);
+                    }
+
+                    existingProduct.ImagePath = "/images/products/" + uniqueFileName;
+                }
+
+                _context.Products.Update(existingProduct);
+                await _context.SaveChangesAsync();
+
+                TempData["SuccessMessage"] = "Product updated successfully!";
+                return RedirectToAction("Dashboard");
+            }
+            return View(product);
+        }
+
+
+        // Delete Product
+        [HttpPost]
+        public IActionResult DeleteProduct(int id)
+        {
+            var product = _context.Products.Find(id);
+            if (product == null) return NotFound();
+
+            _context.Products.Remove(product);
+            _context.SaveChanges();
+
+            TempData["SuccessMessage"] = "Product deleted successfully!";
+            return RedirectToAction("Dashboard");
+        }
+
+
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddProduct(ProductViewModel model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                // Process file upload
-                string uniqueFileName = null;
-                if (model.ProductImage != null)
-                {
-                    // Create upload directory if it doesn't exist
-                    string uploadsFolder = Path.Combine(_hostEnvironment.WebRootPath, "images", "products");
-                    if (!Directory.Exists(uploadsFolder))
-                    {
-                        Directory.CreateDirectory(uploadsFolder);
-                    }
-
-                    // Generate unique filename
-                    uniqueFileName = Guid.NewGuid().ToString() + "_" + model.ProductImage.FileName;
-                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
-
-                    // Save the file
-                    using (var fileStream = new FileStream(filePath, FileMode.Create))
-                    {
-                        await model.ProductImage.CopyToAsync(fileStream);
-                    }
-                }
-
-                // Create new product
-                var product = new Product
-                {
-                    ProductName = model.ProductName,
-                    ProductPrice = model.ProductPrice,
-                    ProductCategory = model.ProductCategory,
-                    ProductDescription = model.ProductDescription,
-                    ProductStock = model.ProductStock,
-                    ImagePath = uniqueFileName != null ? "/images/products/" + uniqueFileName : null,
-                    CreatedAt = DateTime.Now
-                };
-
-                // Add to database
-                _context.Products.Add(product);
-                await _context.SaveChangesAsync();
-
-                // Success message
-                TempData["SuccessMessage"] = "Product added successfully!";
-                return RedirectToAction("Dashboard");
+                ViewBag.ErrorMessage = "Failed to add product. Please check your inputs.";
+                var products = _context.Products.ToList();
+                return View("Dashboard", products);
             }
 
-            // If we reach here, something failed - redisplay form
-            return View("Dashboard", model);
+            string uniqueFileName = null;
+            if (model.ProductImage != null)
+            {
+                string uploadsFolder = Path.Combine(_hostEnvironment.WebRootPath, "images", "products");
+                if (!Directory.Exists(uploadsFolder))
+                {
+                    Directory.CreateDirectory(uploadsFolder);
+                }
+
+                uniqueFileName = Guid.NewGuid().ToString() + "_" + model.ProductImage.FileName;
+                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    await model.ProductImage.CopyToAsync(fileStream);
+                }
+            }
+
+            var product = new Product
+            {
+                ProductName = model.ProductName,
+                ProductPrice = model.ProductPrice,
+                ProductCategory = model.ProductCategory,
+                ProductDescription = model.ProductDescription,
+                ProductStock = model.ProductStock,
+                ImagePath = uniqueFileName != null ? "/images/products/" + uniqueFileName : null,
+                CreatedAt = DateTime.Now
+            };
+
+            _context.Products.Add(product);
+            await _context.SaveChangesAsync();
+
+            TempData["SuccessMessage"] = "Product added successfully!";
+            return RedirectToAction("Dashboard");
         }
+
+
 
         // Logout
         public IActionResult Logout()

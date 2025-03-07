@@ -1,307 +1,319 @@
 {
   "Files": [
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Deen_Essentials.bundle.scp.css",
       "PackagePath": "staticwebassets\\Deen_Essentials.js3kr2t4ct.bundle.scp.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\MyMainLayOut.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\MyMainLayOut.css",
       "PackagePath": "staticwebassets\\css\\MyMainLayOut.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\site.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\favicon.ico",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar.jpg",
       "PackagePath": "staticwebassets\\images\\attar.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar2.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar2.jpg",
       "PackagePath": "staticwebassets\\images\\attar2.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar3.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\attar3.jpg",
       "PackagePath": "staticwebassets\\images\\attar3.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\book_item1.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\book_item1.jpg",
       "PackagePath": "staticwebassets\\images\\book_item1.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\bundle.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\bundle.jpg",
       "PackagePath": "staticwebassets\\images\\bundle.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\digital_pen.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\digital_pen.jpg",
       "PackagePath": "staticwebassets\\images\\digital_pen.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\dp.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\dp.jpg",
       "PackagePath": "staticwebassets\\images\\dp.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\kiffaya.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\kiffaya.jpg",
       "PackagePath": "staticwebassets\\images\\kiffaya.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\prayer_item1.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\prayer_item1.jpg",
       "PackagePath": "staticwebassets\\images\\prayer_item1.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png",
+      "PackagePath": "staticwebassets\\images\\products\\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png"
+    },
+    {
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg",
       "PackagePath": "staticwebassets\\images\\products\\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg",
       "PackagePath": "staticwebassets\\images\\products\\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\search.png",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg"
+    },
+    {
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg"
+    },
+    {
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\search.png",
       "PackagePath": "staticwebassets\\images\\search.png"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\tasbih.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\tasbih.jpg",
       "PackagePath": "staticwebassets\\images\\tasbih.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\wooden_tashbih1.jpg",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\wooden_tashbih1.jpg",
       "PackagePath": "staticwebassets\\images\\wooden_tashbih1.jpg"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\js\\site.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\poralekha\\3.2\\LAB\\SD\\DEEN_ESSENTIALS_CSharp\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

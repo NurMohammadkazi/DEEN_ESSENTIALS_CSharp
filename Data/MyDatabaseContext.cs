@@ -12,5 +12,8 @@ namespace Deen_Essentials.Web.Data
         }
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Product> Products { get; set; }
+
+        public DbSet<User> Users { get; set; }
+
     }
 }

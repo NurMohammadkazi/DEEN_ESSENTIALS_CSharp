@@ -234,6 +234,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\prayer_item1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Deen_Essentials</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Deen_Essentials</BasePath>
+      <RelativePath>images/products/031d22dc-69ba-472e-ba8b-f5779563ce66_download.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>htawnarlph</Fingerprint>
+      <Integrity>OzISjsy3a3TX4MCns9q1XYFhSrDb1mkRgyvv8G27qDA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\031d22dc-69ba-472e-ba8b-f5779563ce66_download.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\1cab840f-a606-4400-a568-b6c5ad5e40f7_464409034_122147472578301649_5960707193582220317_n.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Deen_Essentials</SourceId>
@@ -269,6 +287,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\5092ca11-4aa7-4c43-9169-f93eba0d3478_1639310002_download-16.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Deen_Essentials</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Deen_Essentials</BasePath>
+      <RelativePath>images/products/6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jf6y6ic6a3</Fingerprint>
+      <Integrity>8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\6aa58af2-7061-4912-bf27-2c6c46d462ac_tripti.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Deen_Essentials</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Deen_Essentials</BasePath>
+      <RelativePath>images/products/76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rbmdyajh2u</Fingerprint>
+      <Integrity>uRMKfo78x+i0y9b54ho/nNQSNpHT0taekkYEDeKF4x8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\search.png'))">
       <SourceType>Package</SourceType>

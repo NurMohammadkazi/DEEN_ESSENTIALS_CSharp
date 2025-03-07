@@ -14,7 +14,7 @@ namespace Deen_Essentials.ViewModels
 
         [Required(ErrorMessage = "Category is required")]
         public string ProductCategory { get; set; }
-
+        [Required(ErrorMessage = "Product description is required.")]
         public string ProductDescription { get; set; }
 
         [Required(ErrorMessage = "Stock quantity is required")]

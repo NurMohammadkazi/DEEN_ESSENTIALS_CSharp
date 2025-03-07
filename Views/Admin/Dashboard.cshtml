@@ -1,3 +1,4 @@
+@model List<Deen_Essentials.Models.Product>
 @{
     ViewData["Title"] = "Admin Dashboard";
 }
@@ -44,6 +45,8 @@
     </style>
 </head>
 <body>
+    <h2>Admin Dashboard</h2>
+
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8">
@@ -60,35 +63,86 @@
                             @TempData["SuccessMessage"]
                         </div>
                     }
+                    @if (ViewBag.ErrorMessage != null)
+                    {
+                        <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+                    }
 
                     <!-- Add Product Form -->
+                    <h3>Add Product</h3>
                     <form asp-action="AddProduct" method="post" enctype="multipart/form-data">
                         <div class="form-group">
                             <label for="ProductName">Product Name</label>
                             <input type="text" class="form-control" id="ProductName" name="ProductName" required>
                         </div>
                         <div class="form-group">
-                            <label for="ProductPrice">Product Price</label>
+                            <label for="ProductDescription">Product Description</label>
+                            <input type="text" class="form-control" id="ProductDescription" name="ProductDescription" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="ProductPrice">Price</label>
                             <input type="number" step="0.01" class="form-control" id="ProductPrice" name="ProductPrice" required>
                         </div>
                         <div class="form-group">
-                            <label for="ProductCategory">Product Category</label>
+                            <label for="ProductCategory">Category</label>
                             <input type="text" class="form-control" id="ProductCategory" name="ProductCategory" required>
                         </div>
                         <div class="form-group">
-                            <label for="ProductDescription">Product Description</label>
-                            <textarea class="form-control" id="ProductDescription" name="ProductDescription" rows="3" required></textarea>
-                        </div>
-                        <div class="form-group">
-                            <label for="ProductStock">Product Stock</label>
+                            <label for="ProductStock">Stock</label>
                             <input type="number" class="form-control" id="ProductStock" name="ProductStock" required>
                         </div>
                         <div class="form-group">
-                            <label for="ProductImage">Product Image</label>
+                            <label for="ProductImage">Image</label>
                             <input type="file" class="form-control-file" id="ProductImage" name="ProductImage" required>
                         </div>
                         <button type="submit" class="btn btn-primary">Add Product</button>
                     </form>
+
+                    <!-- Display Products -->
+                    <!-- Product Inventory -->
+                    <h3 class="mt-5">Inventory</h3>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Category</th>
+                                <th>Price</th>
+                                <th>Stock</th>
+                                <th>Image</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null && Model.Any())
+                            {
+                                @foreach (var product in Model)
+                                {
+                                    <tr>
+                                        <td>@product.ProductName</td>
+                                        <td>@product.ProductCategory</td>
+                                        <td>@product.ProductPrice.ToString("C")</td>
+                                        <td>@product.ProductStock</td>
+                                        <td>
+                                            <img src="@product.ImagePath" width="50" height="50" alt="@product.ProductName">
+                                        </td>
+                                        <td>
+                                            <a asp-action="EditProduct" asp-route-id="@product.Id" class="btn btn-warning btn-sm">Edit</a>
+                                            <form asp-action="DeleteProduct" method="post" class="d-inline">
+                                                <input type="hidden" name="id" value="@product.Id" />
+                                                <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">Delete</button>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                <tr>
+                                    <td colspan="6" class="text-center">No products available.</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
 
                     <!-- Logout Button -->
                     <div class="text-center mt-4">
