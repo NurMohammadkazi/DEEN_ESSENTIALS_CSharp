@@ -62,16 +62,20 @@ namespace Deen_Essentials.Controllers
         public IActionResult Login(User user)
         {
             var existingUser = _context.Users.FirstOrDefault(u => u.Email == user.Email);
+
             if (existingUser != null && VerifyPassword(user.Password, existingUser.Password))
             {
+                Console.WriteLine($"🔐 Login Successful: {existingUser.Email}");
                 HttpContext.Session.SetString("UserEmail", existingUser.Email);
                 HttpContext.Session.SetString("UserName", existingUser.Name);
                 return RedirectToAction("Index", "Home");
             }
 
+            Console.WriteLine("❌ ERROR: Invalid email or password!");
             ViewBag.ErrorMessage = "Invalid email or password!";
             return View();
         }
+
 
         // ✅ Logout
         public IActionResult Logout()

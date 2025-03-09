@@ -3,20 +3,92 @@
   "WorkspaceRootPath": "E:\\DEEN_ESSENTIALS_CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\data\\mydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:data\\mydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307180913_Cart Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250307180913_Cart Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307180402_Cart Migration---4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250307180402_Cart Migration---4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307171407_Cart Migration -1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250307171407_Cart Migration -1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307171130_Cart Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250307171130_Cart Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\deen_essentials.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:deen_essentials.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|e:\\deen_essentials_csharp\\migrations\\20250309074341_all migration-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9EA2CE-5B53-4109-822B-A52CCDE3AB32}|Deen_Essentials.csproj|solutionrelative:migrations\\20250309074341_all migration-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +98,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
-              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAIAAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:52:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\User\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Signup.cshtml",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\User\\Signup.cshtml",
+              "RelativeToolTip": "Views\\User\\Signup.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAuwI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T05:24:09.454Z",
+              "WhenOpened": "2025-03-09T10:28:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAAAAACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T10:07:53.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:05:57.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:06:47.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:38:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:57:33.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-07T05:22:56.359Z",
               "EditorCaption": ""
@@ -57,6 +206,147 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T07:53:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyDatabaseContext.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Data\\MyDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDatabaseContext.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Data\\MyDatabaseContext.cs",
+              "RelativeToolTip": "Data\\MyDatabaseContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:56:44.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250307180913_Cart Migration.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307180913_Cart Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307180913_Cart Migration.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307180913_Cart Migration.cs",
+              "RelativeToolTip": "Migrations\\20250307180913_Cart Migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:09:13.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250309074341_All Migration-1.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250309074341_All Migration-1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250309074341_All Migration-1.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250309074341_All Migration-1.cs",
+              "RelativeToolTip": "Migrations\\20250309074341_All Migration-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:43:41.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T09:55:11.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:55:36.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250307180402_Cart Migration---4.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307180402_Cart Migration---4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307180402_Cart Migration---4.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307180402_Cart Migration---4.cs",
+              "RelativeToolTip": "Migrations\\20250307180402_Cart Migration---4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:04:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:59:43.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250307171130_Cart Migration.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307171130_Cart Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307171130_Cart Migration.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307171130_Cart Migration.cs",
+              "RelativeToolTip": "Migrations\\20250307171130_Cart Migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:11:31.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250307171407_Cart Migration -1.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307171407_Cart Migration -1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307171407_Cart Migration -1.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Migrations\\20250307171407_Cart Migration -1.cs",
+              "RelativeToolTip": "Migrations\\20250307171407_Cart Migration -1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:14:07.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductViewModel.cs",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T10:07:05.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Deen_Essentials.csproj",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj",
+              "RelativeDocumentMoniker": "Deen_Essentials.csproj",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Deen_Essentials.csproj",
+              "RelativeToolTip": "Deen_Essentials.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T11:30:45.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
@@ -64,21 +354,19 @@
               "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T05:07:12.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T05:07:12.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwBwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T05:06:47.603Z",
-              "EditorCaption": ""
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "E:\\DEEN_ESSENTIALS_CSharp\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBZwIAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T05:24:09.454Z"
             }
           ]
         }

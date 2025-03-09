@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "smiZfplMsff21hHLNfCqgxIzi1GUhz1FWNgouFW5MpA=",
+  "Hash": "nTrTGYgILzO+VzjGtRCyR1Gy7czs8hJKiZF0bsxdOl8=",
   "Source": "Deen_Essentials",
   "BasePath": "_content/Deen_Essentials",
   "Mode": "Default",
@@ -414,6 +414,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg"
+    },
+    {
+      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg",
+      "SourceId": "Deen_Essentials",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "BasePath": "_content/Deen_Essentials",
+      "RelativePath": "images/products/fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "em7i076mpw",
+      "Integrity": "FlPEOdx+qngrpxo1Qgq+/UTHTvORPbDm2ADhCKqvPx8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg"
+    },
+    {
+      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "SourceId": "Deen_Essentials",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "BasePath": "_content/Deen_Essentials",
+      "RelativePath": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gm2fcspe5a",
+      "Integrity": "+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg"
     },
     {
       "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\search.png",
@@ -2869,7 +2911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:16:10 GMT"
+          "Value": "Fri, 07 Mar 2025 05:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2914,7 +2956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:16:10 GMT"
+          "Value": "Fri, 07 Mar 2025 05:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3115,7 +3157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:28:39 GMT"
+          "Value": "Fri, 07 Mar 2025 05:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3160,7 +3202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Mar 2025 14:28:39 GMT"
+          "Value": "Fri, 07 Mar 2025 05:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3197,7 +3239,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:19:07 GMT"
+          "Value": "Fri, 07 Mar 2025 05:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3234,7 +3276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:19:07 GMT"
+          "Value": "Fri, 07 Mar 2025 05:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3253,6 +3295,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-uRMKfo78x+i0y9b54ho/nNQSNpHT0taekkYEDeKF4x8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.em7i076mpw.jpg",
+      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4794106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FlPEOdx+qngrpxo1Qgq+/UTHTvORPbDm2ADhCKqvPx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "em7i076mpw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FlPEOdx+qngrpxo1Qgq+/UTHTvORPbDm2ADhCKqvPx8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg",
+      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4794106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FlPEOdx+qngrpxo1Qgq+/UTHTvORPbDm2ADhCKqvPx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:46:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FlPEOdx+qngrpxo1Qgq+/UTHTvORPbDm2ADhCKqvPx8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.gm2fcspe5a.jpg",
+      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 16:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gm2fcspe5a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fd68cf1f-e5ac-479b-b223-95ccb596eb60_attar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 16:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LiqcrFo3BDYgNtYRSjLGaJW5FEsSjCY1q/QloYjrEU="
         }
       ]
     },

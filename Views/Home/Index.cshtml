@@ -9,6 +9,8 @@
 <link rel="stylesheet" href="~/css/site.css">
 <!-- Font Awesome for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<!-- Add Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
 
 <!-- Hero Carousel Section -->
 <div class="container-fluid px-0 mb-5">
@@ -111,9 +113,18 @@
                                     @(product.ProductStock > 0 ? "Available" : "Out of Stock")
                                 </span>
                             </div>
+
+                            <!-- ✅ Fix: Add Quantity Input -->
+                            <div class="mt-2">
+                                <label for="quantity-@product.Id">Quantity:</label>
+                                <input type="number" id="quantity-@product.Id" class="form-control" value="1" min="1" max="@product.ProductStock" />
+                            </div>
+
                             <div class="mt-3">
-                                <button class="btn btn-primary btn-sm"><i class="fas fa-shopping-cart"></i> Add to Cart</button>
-                                <button class="btn btn-outline-secondary btn-sm"><i class="far fa-heart"></i></button>
+                                <a href="#" class="btn btn-primary add-to-cart" data-productid="@product.Id">
+                                    <i class="fas fa-shopping-cart"></i> Add to Cart
+                                </a>
+
                             </div>
                         </div>
                     </div>
@@ -127,6 +138,7 @@
             </div>
         }
     </div>
+
 
     <div class="text-center mt-4">
         <a href="#" class="btn btn-outline-primary btn-lg">View All Products</a>
@@ -485,4 +497,31 @@ src="https://www.chatbase.co/embed.min.js"
 chatbotId="t1NhNY_ENAWGRmFcAbB-1" 
 domain="www.chatbase.co" 
 defer> 
+</script>
+<!-- Ensure jQuery is loaded first -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        console.log("✅ jQuery is Loaded!");
+
+        $(".add-to-cart").click(function (event) {
+            event.preventDefault();
+
+            var productId = $(this).data("productid");
+            var quantity = $("#quantity-" + productId).val();
+
+            console.log(`🛒 Adding Product ID: ${productId} | Quantity: ${quantity}`);
+
+            $.post("/Cart/AddToCart", { productId: productId, quantity: quantity })
+                .done(function (response) {
+                    alert(response.message);
+                    location.reload();
+                })
+                .fail(function (xhr, status, error) {
+                    console.error("❌ AJAX Error:", error);
+                    alert("Failed to add product.");
+                });
+        });
+    });
 </script>
