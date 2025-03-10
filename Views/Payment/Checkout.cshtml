@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Checkout";
+}
+
+<div class="container text-center mt-5">
+    <h2 class="text-primary">🛒 Secure Checkout</h2>
+    <p class="lead">Click the button below to pay <strong>$50</strong> using Stripe.</p>
+
+    <div class="d-flex justify-content-center">
+        <button id="checkout-button" class="btn btn-success btn-lg">
+            <i class="fas fa-credit-card"></i> Pay with Stripe
+        </button>
+    </div>
+</div>
+
+<script src="https://js.stripe.com/v3/"></script>
+<script>
+    var stripe = Stripe("@ViewBag.PublishableKey");
+
+    document.getElementById("checkout-button").addEventListener("click", function () {
+        fetch("/Payment/CreateCheckoutSession", { method: "POST" })
+            .then(response => response.json())
+            .then(session => stripe.redirectToCheckout({ sessionId: session.id }))
+            .catch(error => console.error("Error:", error));
+    });
+</script>

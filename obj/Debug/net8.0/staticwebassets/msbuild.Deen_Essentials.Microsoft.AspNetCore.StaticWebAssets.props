@@ -324,6 +324,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Deen_Essentials</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Deen_Essentials</BasePath>
+      <RelativePath>images/products/7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jf6y6ic6a3</Fingerprint>
+      <Integrity>8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Deen_Essentials</SourceId>

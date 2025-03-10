@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nTrTGYgILzO+VzjGtRCyR1Gy7czs8hJKiZF0bsxdOl8=",
+  "Hash": "zNSWW1stR4NEQXi8AZov+1QxVbtTemgFZcp6YU+dGQE=",
   "Source": "Deen_Essentials",
   "BasePath": "_content/Deen_Essentials",
   "Mode": "Default",
@@ -414,6 +414,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\76c0aadb-0144-4c21-b885-ff83d9a99610_photo_6152446957264684269_x.jpg"
+    },
+    {
+      "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg",
+      "SourceId": "Deen_Essentials",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\",
+      "BasePath": "_content/Deen_Essentials",
+      "RelativePath": "images/products/7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jf6y6ic6a3",
+      "Integrity": "8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg"
     },
     {
       "Identity": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg",
@@ -3299,6 +3320,88 @@
       ]
     },
     {
+      "Route": "images/products/7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jf6y6ic6a3.jpg",
+      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 13:33:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jf6y6ic6a3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg",
+      "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\7ac98a43-1544-4960-8ec7-69fb3b9b3e8d_tripti.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 13:33:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RwOPcHZHo2J6GzkfV5Mp8/4R/hJ56pf12Rf3qUaK3E="
+        }
+      ]
+    },
+    {
       "Route": "images/products/fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.em7i076mpw.jpg",
       "AssetFile": "E:\\DEEN_ESSENTIALS_CSharp\\wwwroot\\images\\products\\fa9a40df-21a3-4c2e-b78a-1561dfef0280_IMG_3724.jpg",
       "Selectors": [],
@@ -3321,7 +3424,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 07:46:55 GMT"
+          "Value": "Sun, 09 Mar 2025 13:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3366,7 +3469,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 07:46:55 GMT"
+          "Value": "Sun, 09 Mar 2025 13:28:39 GMT"
         },
         {
           "Name": "Cache-Control",

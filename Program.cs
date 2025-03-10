@@ -1,10 +1,20 @@
 using Deen_Essentials.Web.Data;
 using Microsoft.EntityFrameworkCore;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configure Stripe
+var stripeSettings = builder.Configuration.GetSection("Stripe");
+StripeConfiguration.ApiKey = stripeSettings["SecretKey"];
+
+builder.Services.Configure<StripeSettings>(stripeSettings);
+
+
 // Load appsettings.json configuration
 builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
