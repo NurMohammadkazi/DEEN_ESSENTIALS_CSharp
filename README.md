@@ -23,9 +23,9 @@ Islamic attire like Punjabi clothing.
 Watch the full walkthrough of Fashion World in action:
 
 
-[![https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/tree/main]()
+[![https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp]()
 
-Click the image above or [https://youtu.be/vptCjFsge7A]).
+
 
 ## Screenshots
 
@@ -78,17 +78,17 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 
 ## Technologies Used
 
-• HTML, CSS, JavaScript for frontend
+• HTML, CSS, JavaScript 
 
-• PHP, MySQL for backend
+• .Net MVC, MySQL 
 
-• Stripe API for secure payments
+• Stripe API for secure payments and chatbot
+
 
 # Dependencies
 
 Ensure the following dependencies are installed and configured:
 
-- XAMPP : A local web server environment.
 - MySQL : For database management.
 -Stripe : for transaction
 
@@ -98,6 +98,7 @@ For any questions or suggestions, please reach out to us:
 - Raduan Ahmed - raduan.cse.20210204057@aust.edu
 - MD. Luthful Hasan Galib - luthful.cse.20210204081@aust.edu
 - Nur Muhammod Kazi- nur.cse.20210204071@aust.edu
+- MD Ashraful Alam Bhuiyan - ashraful.cse.20210204065@aust.edu
 
 
 
