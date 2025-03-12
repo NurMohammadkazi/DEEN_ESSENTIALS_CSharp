@@ -89,7 +89,7 @@ Watch the full walkthrough of Fashion World in action:
 
 Ensure the following dependencies are installed and configured:
 
-- MySQL : For database management.
+-MySQL : For database management.
   
 -Stripe : for transaction
 
