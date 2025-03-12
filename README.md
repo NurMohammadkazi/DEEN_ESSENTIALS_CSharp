@@ -22,6 +22,7 @@ Islamic attire like Punjabi clothing.
 
 Watch the full walkthrough of Fashion World in action:
 
+
 [![https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/tree/main]()
 
 Click the image above or [https://youtu.be/vptCjFsge7A]).
@@ -29,20 +30,21 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 ## Screenshots
 
 ### Homepage
-![Homepage](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445965_w.jpg)
+![Homepage](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245891_w.jpg?raw=true)
+![Homepage](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245892_w.jpg?raw=true)
 
 ### User Sign Up
-![Footer](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245883_w.jpg?raw=true)
+![User Sign Up](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245883_w.jpg?raw=true)
 
 ### User Login
-![Panjabi](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245884_w.jpg?raw=true)
+![User Login](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245884_w.jpg?raw=true)
 
-### Perfume
-![Perfume](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445984_w.jpg
+### Admin Sign Up
+![Admin Sign Up](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245886_w.jpg?raw=true
 )
 
-### Accessorice
-![ Accessorice](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445986_w.jpg
+### Admin login
+![Admin login](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245885_w.jpg?raw=true
 )
 
 ### ChatBot
@@ -50,29 +52,27 @@ Click the image above or [https://youtu.be/vptCjFsge7A]).
 )
 
 ### Cart
-![ Cart](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445974_w.jpg
+![ Cart](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245893_w.jpg?raw=true
 )
+### Admin Panel (Dashboard Overview)
+![Admin Panel (Dashboard Overview)](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245887_w.jpg?raw=true
+)
+### Add Product
+![Add Product](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245888_w.jpg?raw=true)
+
+### Inventory
+![Inventory](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245890_w.jpg?raw=true)
+
+### Edit Product
+![Edit Product](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245889_w.jpg?raw=true)
+
+
 
 ### Payment
-![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445976_w.jpg)
+![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245894_w.jpg?raw=true)
 
-![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445977_x.jpg)
+![ Payment](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS_CSharp/blob/main/Features/photo_6237783224382245895_w.jpg?raw=true)
 
-
-
-### Admin Login
-![ Admin Login](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445978_y.jpg)
-
-### Admin Panel
-![ Admin Panel](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445979_w.jpg)
-
-### Add Product
-![Add Product](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445981_y.jpg)
-
-![Add Product](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445982_w.jpg)
-
-### History
-![History](https://github.com/NurMohammadkazi/DEEN_ESSENTIALS/blob/main/deen_essentials/photo_6314208636951445983_w.jpg)
 
 
 
